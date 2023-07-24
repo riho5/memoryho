@@ -1,0 +1,14 @@
+header{
+    font-family: "Courier New";
+    height: 2cm;
+    width:auto;
+    background-color: gray;
+    margin-top: 0px;
+    padding: 10px;
+
+}
+body{
+    font-family: Helvetica;
+    background-color: whitesmoke;
+    width: auto;
+}
