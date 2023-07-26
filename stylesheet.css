@@ -7,6 +7,10 @@ header{
     padding: 10px;
 
 }
+h2{
+    padding:0px;
+
+}
 body{
     font-family: Helvetica;
     background-color: whitesmoke;
