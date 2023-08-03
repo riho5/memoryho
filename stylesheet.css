@@ -1,8 +1,8 @@
 header{
-    font-family: "Courier New";
+    font-family: Helvetica;
     height: 50px;
     width:auto;
-    background-color: gray;
+    background-color: skyblue;
     margin: 0px;
     padding: 10px;
 
@@ -22,4 +22,8 @@ body{
 }
 li{
     margin: 10px;
+}
+
+.jamp{
+    height: 50px;
 }

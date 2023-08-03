@@ -8,3 +8,4 @@ function changetxtColor(idname,opt="on"){
         document.getElementById(idname).style.color = '#000000';
     }
 }
+
